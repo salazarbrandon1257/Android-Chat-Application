@@ -4,7 +4,7 @@
 -	Created a method for users to efficiently communicate mathematics by implementing LaTeX into text
 -	Implemented Firebase (authorization, databases), and designed User Interface 
 
-![Screenshot](screenshot (51).png)
+![Screenshot](Screenshot (51).png)
 
 
 
