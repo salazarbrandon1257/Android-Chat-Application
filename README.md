@@ -7,6 +7,5 @@
 <br /> 
 
 ![Screenshot](Mathek.png)
-[Android Chat Application](https://github.com/salazarbrandon1257/Android-Chat-Application)
 
 
